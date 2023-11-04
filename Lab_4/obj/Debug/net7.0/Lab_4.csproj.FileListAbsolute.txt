@@ -1,0 +1,28 @@
+C:\Projects\OOP\Lab_4\Lab_4\bin\Debug\net7.0\Lab_4.exe
+C:\Projects\OOP\Lab_4\Lab_4\bin\Debug\net7.0\Lab_4.deps.json
+C:\Projects\OOP\Lab_4\Lab_4\bin\Debug\net7.0\Lab_4.runtimeconfig.json
+C:\Projects\OOP\Lab_4\Lab_4\bin\Debug\net7.0\Lab_4.dll
+C:\Projects\OOP\Lab_4\Lab_4\bin\Debug\net7.0\Lab_4.pdb
+C:\Projects\OOP\Lab_4\Lab_4\obj\Debug\net7.0\Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\OOP\Lab_4\Lab_4\obj\Debug\net7.0\Lab_4.AssemblyInfoInputs.cache
+C:\Projects\OOP\Lab_4\Lab_4\obj\Debug\net7.0\Lab_4.AssemblyInfo.cs
+C:\Projects\OOP\Lab_4\Lab_4\obj\Debug\net7.0\Lab_4.csproj.CoreCompileInputs.cache
+C:\Projects\OOP\Lab_4\Lab_4\obj\Debug\net7.0\Lab_4.dll
+C:\Projects\OOP\Lab_4\Lab_4\obj\Debug\net7.0\refint\Lab_4.dll
+C:\Projects\OOP\Lab_4\Lab_4\obj\Debug\net7.0\Lab_4.pdb
+C:\Projects\OOP\Lab_4\Lab_4\obj\Debug\net7.0\Lab_4.genruntimeconfig.cache
+C:\Projects\OOP\Lab_4\Lab_4\obj\Debug\net7.0\ref\Lab_4.dll
+D:\Новая папка\OOP_Lab_4-main\Lab_4\bin\Debug\net7.0\Lab_4.exe
+D:\Новая папка\OOP_Lab_4-main\Lab_4\bin\Debug\net7.0\Lab_4.deps.json
+D:\Новая папка\OOP_Lab_4-main\Lab_4\bin\Debug\net7.0\Lab_4.runtimeconfig.json
+D:\Новая папка\OOP_Lab_4-main\Lab_4\bin\Debug\net7.0\Lab_4.dll
+D:\Новая папка\OOP_Lab_4-main\Lab_4\bin\Debug\net7.0\Lab_4.pdb
+D:\Новая папка\OOP_Lab_4-main\Lab_4\obj\Debug\net7.0\Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\OOP_Lab_4-main\Lab_4\obj\Debug\net7.0\Lab_4.AssemblyInfoInputs.cache
+D:\Новая папка\OOP_Lab_4-main\Lab_4\obj\Debug\net7.0\Lab_4.AssemblyInfo.cs
+D:\Новая папка\OOP_Lab_4-main\Lab_4\obj\Debug\net7.0\Lab_4.csproj.CoreCompileInputs.cache
+D:\Новая папка\OOP_Lab_4-main\Lab_4\obj\Debug\net7.0\Lab_4.dll
+D:\Новая папка\OOP_Lab_4-main\Lab_4\obj\Debug\net7.0\refint\Lab_4.dll
+D:\Новая папка\OOP_Lab_4-main\Lab_4\obj\Debug\net7.0\Lab_4.pdb
+D:\Новая папка\OOP_Lab_4-main\Lab_4\obj\Debug\net7.0\Lab_4.genruntimeconfig.cache
+D:\Новая папка\OOP_Lab_4-main\Lab_4\obj\Debug\net7.0\ref\Lab_4.dll
